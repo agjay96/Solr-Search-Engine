@@ -5,4 +5,4 @@ Implemented a Web Search Engine with spelling correction and auto complete featu
 
 
 <h1>Click to watch the Search Engine Video</h1><br>
-![Solr Search Engine](https://www.youtube.com/watch?v=9ClFe1jkWIs&t)
+(https://www.youtube.com/watch?v=9ClFe1jkWIs&t)
